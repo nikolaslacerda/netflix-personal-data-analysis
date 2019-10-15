@@ -14,8 +14,8 @@
 ### Gráfico das 5 séries mais vistas
 ![Gráfico de exemplo 1](https://github.com/nikolaslacerda/netflix-personal-data-analysis/raw/master/images/top-series.png)
 
-### Calendário com os episodios assistidos por dia
+### Calendário com os episódios assistidos por dia
 ![Gráfico de exemplo 2](https://github.com/nikolaslacerda/netflix-personal-data-analysis/raw/master/images/head-map-episodes-by-day-calendar.png)
 
-### Gráficos de episodios assistidos por mês
+### Gráficos de episódios assistidos por mês
 ![Gráfico de exemplo 3](https://github.com/nikolaslacerda/netflix-personal-data-analysis/raw/master/images/watched-by-month.png)
